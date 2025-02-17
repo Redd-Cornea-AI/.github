@@ -24,6 +24,16 @@ ReddLab is a research group based at the **Casey Eye Institute, Oregon Health & 
 
 ---
 
+## 🎯 Goals
+
+1. **Responsibly develop machine learning systems** and novel imaging methods to determine the infectious etiology of corneal ulcers.
+   - ✅ **Project:** [Automated KOH Smear Interpretation](https://github.com/Redd-Cornea-AI/KOH-Smear-DSMIL)  
+   - 📌 Using **Dual Stream Multiple Instance Learning (DSMIL)** to automate **KOH smear analysis** for corneal ulcers.
+2. **Develop AI models for automatic detection of trachoma**, ensuring responsible and ethical implementation.
+3. **Invent novel approaches to weak supervision** for medical AI, improving the reliability of machine learning in healthcare.
+4. **Create educational tools for clinicians** managing corneal diseases, enhancing their ability to diagnose and treat patients effectively.
+
+---
 ## 👥 Meet the Team
 
 ### **Principal Investigator**
