@@ -36,7 +36,7 @@ ReddLab is a research group based at the **Casey Eye Institute, Oregon Health & 
 <p>📄 <strong>Publications & Research:</strong> <a href="https://scholar.google.com/citations?hl=en&user=giL6pA0AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></p>
 </div>
 
-## Research Team
+<!-- ## Research Team
 
 | <img src="assets/Jad_Assaf.PNG" width="150"> | <img src="assets/JohnJackson.jpg.avif" width="150"> | <img src="assets/hady_yazbeck.jpeg" width="150"> |
 |:--------------------------------------------:|:--------------------------------------------------:|:-----------------------------------------------:|
@@ -44,4 +44,38 @@ ReddLab is a research group based at the **Casey Eye Institute, Oregon Health & 
 | *PostDoctoral Scholar* | *PostDoctoral Scholar* | *PostDoctoral Scholar* |
 | Deep Learning for Corneal Imaging | Machine Learning, Image Processing, and Geometric Algebra | AI in Ophthalmology |
 | [GitHub](https://github.com/JadAssaf) • [Google Scholar](https://scholar.google.com/citations?user=8whDnjAAAAAJ&hl=en) • [LinkedIn](http://linkedin.com/in/assafjad/) | [GitHub](https://github.com/Otravezjj) | [GitHub](https://github.com/Hadyazbeck) • [Google Scholar](https://scholar.google.com/citations?user=7UEHJjIAAAAJ&hl=en&oi=ao) • [LinkedIn](https://www.linkedin.com/in/hady-yazbeck-3984121a5/) |
+ -->
+
+## Research Team
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <img src="assets/Jad_Assaf.PNG" width="150"><br>
+      <strong>Dr. Jad F. Assaf, MD</strong><br>
+      <em>PostDoctoral Scholar</em><br>
+      Deep Learning for Corneal Imaging<br>
+      <a href="https://github.com/JadAssaf">GitHub</a> • 
+      <a href="https://scholar.google.com/citations?user=8whDnjAAAAAJ&hl=en">Google Scholar</a> • 
+      <a href="http://linkedin.com/in/assafjad/">LinkedIn</a>
+    </td>
+    <td align="center" width="250">
+      <img src="assets/JohnJackson.jpg.avif" width="150"><br>
+      <strong>Dr. John Jackson, MD</strong><br>
+      <em>PostDoctoral Scholar</em><br>
+      Machine Learning, Image Processing, and Geometric Algebra<br>
+      <a href="https://github.com/Otravezjj">GitHub</a>
+    </td>
+    <td align="center" width="250">
+      <img src="assets/hady_yazbeck.jpeg" width="150"><br>
+      <strong>Dr. Hady Yazbeck, MD</strong><br>
+      <em>PostDoctoral Scholar</em><br>
+      AI in Ophthalmology<br>
+      <a href="https://github.com/Hadyazbeck">GitHub</a> • 
+      <a href="https://scholar.google.com/citations?user=7UEHJjIAAAAJ&hl=en&oi=ao">Google Scholar</a> • 
+      <a href="https://www.linkedin.com/in/hady-yazbeck-3984121a5/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
 ---
