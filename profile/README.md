@@ -65,6 +65,8 @@ ReddLab is a research group based at the **Casey Eye Institute, Oregon Health & 
 2. **Develop AI models for automatic detection of trachoma**, ensuring responsible and ethical implementation.
 
 3. **Invent novel approaches to weak supervision** for medical AI, improving the reliability of machine learning in healthcare.
+   - ✅ **Project:** [Latent Supervision](https://github.com/Redd-Cornea-AI/Latent_Supervision)  
+   - 📌 Developing and evaluating latent supervision techniques for robust medical image analysis.
 
 4. **Create educational tools for clinicians** managing corneal diseases, enhancing their ability to diagnose and treat patients effectively.
 
